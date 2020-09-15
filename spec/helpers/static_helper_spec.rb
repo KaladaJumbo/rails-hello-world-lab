@@ -15,6 +15,7 @@ require 'rails_helper'
 #   pending "add some examples to (or delete) #{__FILE__}"
 # end
 
+#personal rspec
 describe "hello_world.html.erb" do 
 
   it "the file exists?" do 
